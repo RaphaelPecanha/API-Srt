@@ -1,6 +1,0 @@
-@SRT_HostAddress = http://localhost:5171
-
-GET {{SRT_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
