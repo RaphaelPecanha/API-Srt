@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCAELzEsVzrrCOYUwwekaUu6K+dxfoxhrIoF8yGWxkUcf4l1DqYwaTaGfjoTDl2/HABaU0VqY/+LZ6Dl2NE26g==",
+  "dgSpecHash": "kpnaw949MIY0OjTN2ief5H6z2uWyg4+X0t33ZeH5ewLdjQyWnP0K6V+aP7iNuHBb3BsI8kUGzmDccCeqCqBFnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\APIs\\SRT\\SRT\\SRT\\SRT.ServiceAPI.csproj",
+  "projectFilePath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\API-Srt\\API-Srt\\SRT\\SRT\\SRT.ServiceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raphael.pecanha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\raphael.pecanha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

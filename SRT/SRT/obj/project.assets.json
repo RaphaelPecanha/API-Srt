@@ -2723,11 +2723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\APIs\\SRT\\SRT\\SRT\\SRT.ServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\API-Srt\\API-Srt\\SRT\\SRT\\SRT.ServiceAPI.csproj",
       "projectName": "SRT.ServiceAPI",
-      "projectPath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\APIs\\SRT\\SRT\\SRT\\SRT.ServiceAPI.csproj",
+      "projectPath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\API-Srt\\API-Srt\\SRT\\SRT\\SRT.ServiceAPI.csproj",
       "packagesPath": "C:\\Users\\raphael.pecanha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\APIs\\SRT\\SRT\\SRT\\obj\\",
+      "outputPath": "C:\\Users\\raphael.pecanha\\Documents\\GitHub\\API-Srt\\API-Srt\\SRT\\SRT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

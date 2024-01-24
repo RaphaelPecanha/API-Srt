@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BXtzLhSxAx8+u7isKes5PC5rjvGPFUDamX8UN0aoW2w=",
+  "Source": "SRT.ServiceAPI",
+  "BasePath": "_content/SRT.ServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
